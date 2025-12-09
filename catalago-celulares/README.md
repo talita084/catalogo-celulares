@@ -178,7 +178,7 @@ primary: {
 
 ## Autor
 
-**[Talita de Almeida Moura]**
+**Talita de Almeida Moura**
 - GitHub: [@talita084](https://github.com/talita084)
 
 ## Licença
