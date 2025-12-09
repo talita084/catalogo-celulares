@@ -1,0 +1,52 @@
+{
+  "celulares": [
+    {
+      "id": 1,
+      "modelo": "iPhone 15 Pro Max",
+      "marca": "Apple",
+      "ano": 2023,
+      "preco": 7999,
+      "armazenamento": "256GB",
+      "ram": "8GB",
+      "camera": "48MP",
+      "bateria": "4422mAh",
+      "tela": "6.7\"",
+      "imagem": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=400",
+      "descricao": "O mais poderoso iPhone já criado, com chip A17 Pro e câmera profissional.",
+      "avaliacao": 5,
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "modelo": "Galaxy S24 Ultra",
+      "marca": "Samsung",
+      "ano": 2024,
+      "preco": 8499,
+      "armazenamento": "512GB",
+      "ram": "12GB",
+      "camera": "200MP",
+      "bateria": "5000mAh",
+      "tela": "6.8\"",
+      "imagem": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400",
+      "descricao": "Galaxy AI integrado, câmera de 200MP e S Pen incluída.",
+      "avaliacao": 5,
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "modelo": "Pixel 8 Pro",
+      "marca": "Google",
+      "ano": 2023,
+      "preco": 6299,
+      "armazenamento": "256GB",
+      "ram": "12GB",
+      "camera": "50MP",
+      "bateria": "5050mAh",
+      "tela": "6.7\"",
+      "imagem": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400",
+      "descricao": "A melhor câmera do mercado com Google Tensor G3 e IA avançada.",
+      "avaliacao": 4,
+      "favorito": false
+    }
+  ]
+}
